@@ -1,0 +1,15 @@
+E:\C# Code from B to P\While inside While\bin\Debug\net6.0\While inside While.exe
+E:\C# Code from B to P\While inside While\bin\Debug\net6.0\While inside While.deps.json
+E:\C# Code from B to P\While inside While\bin\Debug\net6.0\While inside While.runtimeconfig.json
+E:\C# Code from B to P\While inside While\bin\Debug\net6.0\While inside While.dll
+E:\C# Code from B to P\While inside While\bin\Debug\net6.0\While inside While.pdb
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.csproj.AssemblyReference.cache
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.AssemblyInfoInputs.cache
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.AssemblyInfo.cs
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.csproj.CoreCompileInputs.cache
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.dll
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\refint\While inside While.dll
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.pdb
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\While inside While.genruntimeconfig.cache
+E:\C# Code from B to P\While inside While\obj\Debug\net6.0\ref\While inside While.dll
